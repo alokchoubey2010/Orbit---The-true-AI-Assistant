@@ -1,0 +1,7 @@
+{
+  "name": "Orbit",
+  "description": "An AI-powered productivity assistant for managing calendar events, reminders, and tasks.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
